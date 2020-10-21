@@ -1,7 +1,7 @@
-# Why Deep Learning
+### Why Deep Learning
 If you want to break into AI, Deep Learning is one of the most highly sought after skills to give you a deep dive here. The foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects is a must and sought after skills. Also Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more is a deep learning toolbox. AI is transforming multiple industries. These are essentials to understand how to apply it, and build a career in AI.
 
-## Curated Resources
+### Curated Resources
 | Title | Domain | Link|
 |-|-|-|
 | Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch) | GAN | [link](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f) |
