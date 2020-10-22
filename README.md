@@ -9,5 +9,5 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 | Plug-and-play with BERT as a module in Machine Translation Quality Estimation | NLP | [link](https://gab41.lab41.org/plug-and-play-with-bert-as-a-module-in-machine-translation-quality-estimation-6bb004171584) |
 | A PyTorch Tools, best practices & Styleguide | Pytorch | [link](https://github.com/IgorSusmelj/pytorch-styleguide) |
 | DEEP LEARNING by Yann Le Chunn | NYU CENTER FOR DATA SCIENCE | [link](https://atcold.github.io/pytorch-Deep-Learning/) | 
-| NYU’s Center for Data Science | portal | [link](https://cds.nyu.edu/) |
+| NYU’s Center for Data Science | University Portal | [link](https://cds.nyu.edu/) |
 
