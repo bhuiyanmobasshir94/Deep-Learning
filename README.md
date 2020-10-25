@@ -11,4 +11,5 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 | DEEP LEARNING by Yann Le Chunn | NYU CENTER FOR DATA SCIENCE | [link](https://atcold.github.io/pytorch-Deep-Learning/) | 
 | NYU’s Center for Data Science | University Portal | [link](https://cds.nyu.edu/) |
 | The Roadmap of Mathematics for Deep Learning | Mathematics | [link](https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b) |
+| The first AI model that translates 100 languages without relying on English data | Multilingual Model | [link](https://ai.facebook.com/blog/introducing-many-to-many-multilingual-machine-translation/) |
 
