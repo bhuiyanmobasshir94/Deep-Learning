@@ -15,3 +15,6 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 | deep-learning-drizzle | Resources for deep learning | [link](https://github.com/kmario23/deep-learning-drizzle) |
 | google-research-datasets/Objectron | [link](https://github.com/google-research-datasets/Objectron/) |
 | PyTorch Tutorials Refresh - Behind the Scenes | [link](https://developers.facebook.com/blog/post/2020/10/07/pytorch-tutorials-refresh-behind-the-scenes/) |
+
+#### Installation resources
+1. To install [Pytorch](https://deeplizard.com/learn/video/UWlFM0R_x6I) 
