@@ -13,10 +13,12 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 | The Roadmap of Mathematics for Deep Learning | Mathematics | [link](https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b) |
 | The first AI model that translates 100 languages without relying on English data | Multilingual Model | [link](https://ai.facebook.com/blog/introducing-many-to-many-multilingual-machine-translation/) |
 | deep-learning-drizzle | Resources for deep learning | [link](https://github.com/kmario23/deep-learning-drizzle) |
-| google-research-datasets/Objectron | [link](https://github.com/google-research-datasets/Objectron/) |
-| PyTorch Tutorials Refresh - Behind the Scenes | [link](https://developers.facebook.com/blog/post/2020/10/07/pytorch-tutorials-refresh-behind-the-scenes/) |
-| Training AI to detect hate speech in the real world | [link](https://ai.facebook.com/blog/training-ai-to-detect-hate-speech-in-the-real-world) |
-| Here's how we're using AI to help detect misinformation | [link](https://ai.facebook.com/blog/heres-how-were-using-ai-to-help-detect-misinformation) |
+| google-research-datasets/Objectron | | [link](https://github.com/google-research-datasets/Objectron/) |
+| PyTorch Tutorials Refresh - Behind the Scenes | | [link](https://developers.facebook.com/blog/post/2020/10/07/pytorch-tutorials-refresh-behind-the-scenes/) |
+| Training AI to detect hate speech in the real world | | [link](https://ai.facebook.com/blog/training-ai-to-detect-hate-speech-in-the-real-world) |
+| Here's how we're using AI to help detect misinformation | | [link](https://ai.facebook.com/blog/heres-how-were-using-ai-to-help-detect-misinformation) |
+| MLOps: Continuous delivery and automation pipelines in machine learning | | [link](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) |
+| Companion Jupyter notebooks for the book "Deep Learning with Python" | | [link](https://github.com/fchollet/deep-learning-with-python-notebooks) |
 
 #### Installation resources
 1. To install [Pytorch](https://deeplizard.com/learn/video/UWlFM0R_x6I) 
