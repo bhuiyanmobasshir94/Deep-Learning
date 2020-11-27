@@ -20,6 +20,7 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 | MLOps: Continuous delivery and automation pipelines in machine learning | | [link](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) |
 | Companion Jupyter notebooks for the book "Deep Learning with Python" | | [link](https://github.com/fchollet/deep-learning-with-python-notebooks) |
 | “Was That a Chirp?” Making a Bird Audio Detection ConvNet on PyTorch | | [link](https://towardsdatascience.com/was-that-a-chirp-making-a-bird-audio-detection-convnet-on-pytorch-88400450bb19) |
+| Deepfake Detection Challenge Results: An open initiative to advance AI | | [link](https://ai.facebook.com/blog/deepfake-detection-challenge-results-an-open-initiative-to-advance-ai) |
 
 #### Installation resources
 1. To install [Pytorch](https://deeplizard.com/learn/video/UWlFM0R_x6I) 
