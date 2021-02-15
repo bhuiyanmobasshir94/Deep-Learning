@@ -22,5 +22,9 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 | “Was That a Chirp?” Making a Bird Audio Detection ConvNet on PyTorch | | [link](https://towardsdatascience.com/was-that-a-chirp-making-a-bird-audio-detection-convnet-on-pytorch-88400450bb19) |
 | Deepfake Detection Challenge Results: An open initiative to advance AI | | [link](https://ai.facebook.com/blog/deepfake-detection-challenge-results-an-open-initiative-to-advance-ai) |
 
+
+## Curated list
+1. [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+
 #### Installation resources
 1. To install [Pytorch](https://deeplizard.com/learn/video/UWlFM0R_x6I) 
