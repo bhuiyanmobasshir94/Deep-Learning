@@ -25,6 +25,7 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 
 ## Curated list
 1. [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+2. [Deep Learning - Atcold](https://atcold.github.io/pytorch-Deep-Learning/)
 
 #### Installation resources
 1. To install [Pytorch](https://deeplizard.com/learn/video/UWlFM0R_x6I) 
