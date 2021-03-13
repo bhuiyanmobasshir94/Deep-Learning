@@ -28,6 +28,7 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 1. [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) - [Github](https://github.com/aamini/introtodeeplearning) - [Complete Syllabus](https://docs.google.com/document/d/1p1zAcNlogBCQFDXnSntwHFQ06pwmzewXpiQns-KfOd8/edit?usp=sharing)
 2. [Deep Learning - Atcold](https://atcold.github.io/pytorch-Deep-Learning/)
 3. [Dive into Deep Learning](https://d2l.ai/)
+4. [Mathematics for machine learning](https://mml-book.github.io/)
 
 #### Installation resources
 1. To install [Pytorch](https://deeplizard.com/learn/video/UWlFM0R_x6I) 
