@@ -22,6 +22,7 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 | “Was That a Chirp?” Making a Bird Audio Detection ConvNet on PyTorch | | [link](https://towardsdatascience.com/was-that-a-chirp-making-a-bird-audio-detection-convnet-on-pytorch-88400450bb19) |
 | Deepfake Detection Challenge Results: An open initiative to advance AI | | [link](https://ai.facebook.com/blog/deepfake-detection-challenge-results-an-open-initiative-to-advance-ai) |
 | Facebook's wave2vec with transformer | | [link](https://huggingface.co/facebook/wav2vec2-base-960h) |
+| The Roadmap of Mathematics for Deep Learning | | [link](https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b) |
 
 
 ## Curated list
