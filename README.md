@@ -29,5 +29,8 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 3. [Dive into Deep Learning](https://d2l.ai/)
 4. [Mathematics for machine learning](https://mml-book.github.io/)
 
+## NLP Resource
+1. [হাতেকলমে 'বাংলা' ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং](https://aiwithr.github.io/nlpbook/)
+
 #### Installation resources
 1. To install [Pytorch](https://deeplizard.com/learn/video/UWlFM0R_x6I) 
