@@ -35,3 +35,6 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 
 #### Installation resources
 1. To install [Pytorch](https://deeplizard.com/learn/video/UWlFM0R_x6I) 
+
+## Combined
+- [Fast.ai](https://www.fast.ai/)
