@@ -29,6 +29,7 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 3. [Dive into Deep Learning](https://d2l.ai/)
 4. [Mathematics for machine learning](https://mml-book.github.io/)
 5. [Applications of Deep Neural Networks with Keras](https://arxiv.org/pdf/2009.05673.pdf)
+6. [MIT Deep Learning](https://deeplearning.mit.edu/) - [youtube playlist](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) - [github](https://github.com/lexfridman/mit-deep-learning)
 
 ## NLP Resource
 1. [হাতেকলমে 'বাংলা' ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং](https://aiwithr.github.io/nlpbook/)
