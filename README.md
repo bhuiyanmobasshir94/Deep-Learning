@@ -31,6 +31,7 @@ If you want to break into AI, Deep Learning is one of the most highly sought aft
 5. [Applications of Deep Neural Networks with Keras](https://arxiv.org/pdf/2009.05673.pdf)
 6. [MIT Deep Learning](https://deeplearning.mit.edu/) - [youtube playlist](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) - [github](https://github.com/lexfridman/mit-deep-learning)
 7. [Introduction to Deep Learning -- 170 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers](https://sebastianraschka.com/blog/2021/dl-course.html)
+8. [Full Stack Deep Learning](https://fullstackdeeplearning.com/)***
 
 ## NLP Resource
 1. [হাতেকলমে 'বাংলা' ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং](https://aiwithr.github.io/nlpbook/)
